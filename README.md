@@ -13,3 +13,9 @@ For this exercise, you will be using data from the [sample_data/](/../../tree/ma
 
 ## Questions or Issues?
 Please use the [Issues](/../../issues) tab to report any issues or ask questions. Any feedback is welcome!
+
+## Exercise2.
+By using sample date cvs and pandas. 
+Filtered rows by a condition.
+Created a json file by filtering only white wines condition.
+
